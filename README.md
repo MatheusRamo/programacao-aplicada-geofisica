@@ -1,4 +1,4 @@
-# programacao-aplicada-geofisica
+# Programação Aplicada a Geofísica
 - Repositório com os códigos da disciplina de programação aplicada a geofísica
 ## Como baixar
 ```
