@@ -34,7 +34,7 @@ def write_text_file(*files):
         txt.write("Quadrature and Phase of field")
         txt.write("\n")
         for i in range(n):
-            txt.write(f"{str(Ex_mod[i])} {str(Ex_phase[i])}\n")
+            txt.write(f"{str(Ex_mod[i])}    {str(Ex_phase[i])}\n")
 
 if __name__ == "__main__":
     pass
